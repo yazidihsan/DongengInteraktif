@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dongeng Interaktif</string>
+    <string name="title_activity_dongeng">DongengActivity</string>
+    <string name="key_nama">nama</string>
+</resources>
